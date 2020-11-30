@@ -1,0 +1,2 @@
+E:\vs\8.1string\Debug\8.1string.exe
+E:\vs\8.1string\Debug\8.1string.pdb
